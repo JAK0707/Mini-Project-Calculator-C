@@ -1,6 +1,4 @@
-# Mini-Project-Calculator-C
-
-<h1>Simple Calculator</h1>
+# Mini-Project-Simple-Calculator-C
 
 This is a simple calculator program written in C. It prompts the user to enter two numbers and an arithmetic operation, then performs the operation and displays the result.
 
